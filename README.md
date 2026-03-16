@@ -1,0 +1,1 @@
+# smart-assist-mcp-client
