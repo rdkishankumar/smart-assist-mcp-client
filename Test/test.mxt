@@ -1,0 +1,3 @@
+# test.mxt
+
+This is a test file created by the assistant.
